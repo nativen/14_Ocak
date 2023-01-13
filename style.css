@@ -1,0 +1,16 @@
+.ana-div p::first-letter{
+    font-size: 20px;  
+}
+
+.ana-div p::first-line{
+    color: red;
+}
+
+.ana-div p:first-child{
+    background-color: yellowgreen;
+}
+
+.ana-div p:last-child{
+    background-color: wheat;
+}
+
